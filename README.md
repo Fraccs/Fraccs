@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Aliprandi Francesco, i'm an IT student in my 4th year of high school.
-- 👀 Programming skills: C programming (pointers/memory allocation/complex data structures), C++ OOP, Python Basics.
+- 👋 Hi, my name is Aliprandi Francesco, i'm an IT student.
+- 👀 Programming skills: C programming (memory/data structures), C++ OOP, Python Basics.
 - 🌱 Currently learning: Java and web development.
 - 📫 Reach me: <aliprandifrancescopp@gmail.com>
 
