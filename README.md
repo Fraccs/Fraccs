@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Aliprandi Francesco, i'm an IT student.
+- 👋 Hi, my name is Aliprandi Francesco, i'm an Information Technology student.
 - 👀 Programming skills: C programming (memory/data structures), C++ OOP, Python Basics.
 - 🌱 Currently learning: Java and web development.
 - 📫 Reach me: <aliprandifrancescopp@gmail.com>
