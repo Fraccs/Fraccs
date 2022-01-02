@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Aliprandi Francesco, i'm an Information Technology student.
-- 👀 Programming skills: C programming (memory/data structures), C++ OOP, Python Basics.
-- 🌱 Currently learning: Java and web development.
+- 👀 Languages I use/used: C, C++, C#, Python, Java, JavaScript.
+- 🌱 Currently learning: Java GUI and Web development.
 - 👾 Discord: Fraccs#8822.
 - 📫 Reach me: <aliprandifrancescopp@gmail.com>.
 
