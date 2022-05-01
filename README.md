@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Aliprandi Francesco, i'm an Information Technology student.
-- 👀 Languages I use/used: C, C++, Python, Java.
-- 🌱 Currently learning: Java GUI and Web development.
+- 👀 Languages I use/used: C, C++, Python, Java and JavaScript.
+- 🌱 Currently learning: Web development and Pentesting.
 - 📫 Reach me: <aliprandifrancescopp@gmail.com>.
 
 <!---a
