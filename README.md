@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Aliprandi Francesco, i'm a 17yo CS student, programmer and pentester from Italy.
+- 👋 Hi, my name is Aliprandi Francesco, I'm a 17yo CS student, programmer and pentester from Italy.
 - 👀 Languages I use/used: C, C++, Python, Java and JavaScript.
 - 🌱 Currently learning: Web development and Pentesting.
 - 📫 Reach me: <aliprandifrancescopp@gmail.com>.
