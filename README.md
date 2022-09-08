@@ -2,7 +2,7 @@
 
 ## Student, Programmer & Pentester
 
-- 🌍 I live in Milan, Italy.
+- 🌍 Milan - Italy.
 - 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio.
 - 🚀 I'm currently learning Rust and Modern web development.
 - 📫 Reach me at aliprandifrancescopp@gmail.com
@@ -12,7 +12,6 @@
 <span><img src="./imgs/c.png" height="36" alt="C"/></span>
 <span><img src="./imgs/rust.png" height="36" alt="Rust"/></span>
 <span><img src="./imgs/python.png" height="36" alt="Python"/></span>
-<span><img src="./imgs/docker.png" height="36" alt="Docker"/></span>
 <span><img src="./imgs/react.png" height="36" alt="React"/></span>
 <span><img src="./imgs/tailwind.png" height="36" alt="Tailwind"/></span>
 <span><img src="./imgs/leaflet.png" height="36" alt="LeafletJS"/></span>
@@ -22,6 +21,7 @@
 <span><img src="./imgs/node.png" height="36" alt="NodeJS"/></span>
 <span><img src="./imgs/mongodb.png" height="36" alt="Mongodb"/></span>
 <span><img src="./imgs/postgres.png" height="36" alt="Postgres"/></span>
+<span><img src="./imgs/docker.png" height="36" alt="Docker"/></span>
 
 ## Badges
 
