@@ -11,19 +11,19 @@
 
 ## Skills
 
-<img src="./imgs/c.png" height="36" alt="C"/>
-<img src="./imgs/rust.png" height="36" alt="Rust"/>
-<img src="./imgs/python.png" height="36" alt="Python"/>
-<img src="./imgs/docker.png" height="36" alt="Docker"/>
-<img src="./imgs/react.png" height="36" alt="React"/>
-<img src="./imgs/tailwind.png" height="36" alt="Tailwind"/>
-<img src="./imgs/leaflet.png" height="36" alt="LeafletJS"/>
-<img src="./imgs/javascript.png" height="36" alt="JavaScript"/>
-<img src="./imgs/typescript.png" height="36" alt="TypeScript"/>
-<img src="./imgs/express.png" height="36" alt="Express"/>
-<img src="./imgs/node.png" height="36" alt="NodeJS"/>
-<img src="./imgs/mongodb.png" height="36" alt="Mongodb"/>
-<img src="./imgs/postgres.png" height="36" alt="Postgres"/>
+<img src="./imgs/c.png" height="36" width="34" alt="C"/>
+<img src="./imgs/rust.png" height="36" width="36" alt="Rust"/>
+<img src="./imgs/python.png" height="36" width="34" alt="Python"/>
+<img src="./imgs/docker.png" height="36" width="42" alt="Docker"/>
+<img src="./imgs/react.png" height="36" width="40" alt="React"/>
+<img src="./imgs/tailwind.png" height="36" width="36" alt="Tailwind"/>
+<img src="./imgs/leaflet.png" height="36" width="36" alt="LeafletJS"/>
+<img src="./imgs/javascript.png" height="36" width="36" alt="JavaScript"/>
+<img src="./imgs/typescript.png" height="36" width="36" alt="TypeScript"/>
+<img src="./imgs/express.png" height="36" width="36" alt="Express"/>
+<img src="./imgs/node.png" height="36" width="34" alt="NodeJS"/>
+<img src="./imgs/mongodb.png" height="36" width="36" alt="Mongodb"/>
+<img src="./imgs/postgres.png" height="36" width="36" alt="Postgres"/>
 
 ## Badges
 
