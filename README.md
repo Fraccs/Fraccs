@@ -3,7 +3,7 @@
 ## Student, Programmer & Pentester
 
 - 🌍 Milan - Italy.
-- 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio.
+- 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**outdated**).
 - 🚀 I'm currently learning Rust and Modern web development.
 - 📫 Reach me at aliprandifrancescopp@gmail.com
 
