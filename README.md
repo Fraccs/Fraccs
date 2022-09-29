@@ -1,6 +1,6 @@
 # Hi 👋 my name is Aliprandi Francesco
 
-## Student, Programmer & Pentester
+## Student & Programmer
 
 - 🌍 Milan - Italy.
 - 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**outdated**).
