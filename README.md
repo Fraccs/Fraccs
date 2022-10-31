@@ -1,10 +1,10 @@
 # Hi 👋 my name is Aliprandi Francesco
 
-## Student & Programmer
+## Student & Developer
 
 - 🌍 Milan - Italy.
 - 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**outdated**).
-- 🚀 I'm currently learning Rust and Modern web development.
+- 🚀 I'm currently learning Mobile and Web development.
 - 📫 Reach me at aliprandifrancescopp@gmail.com
 
 ## Skills
