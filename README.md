@@ -7,21 +7,23 @@
 - 🚀 I'm currently learning Mobile and Web development.
 - 📫 Reach me at aliprandifrancescopp@gmail.com
 
-## Skills
+## I regularly work with
+
+<span><img src="./imgs/python.png" height="36" alt="Python"/></span>
+<span><img src="./imgs/javascript.png" height="36" alt="JavaScript"/></span>
+<span><img src="./imgs/typescript.png" height="36" alt="TypeScript"/></span>
+<span><img src="./imgs/react.png" height="36" alt="React"/></span>
+<span><img src="./imgs/tailwind.png" height="36" alt="Tailwind"/></span>
+<span><img src="./imgs/express.png" height="36" alt="Express"/></span>
+<span><img src="./imgs/mongodb.png" height="36" alt="Mongodb"/></span>
+<span><img src="./imgs/sql.png" height="36" alt="SQL"/></span>
+<span><img src="./imgs/docker.png" height="36" alt="Docker"/></span>
+
+## I also have worked/familiarity with
 
 <span><img src="./imgs/c.png" height="36" alt="C"/></span>
 <span><img src="./imgs/rust.png" height="36" alt="Rust"/></span>
-<span><img src="./imgs/python.png" height="36" alt="Python"/></span>
-<span><img src="./imgs/react.png" height="36" alt="React"/></span>
-<span><img src="./imgs/tailwind.png" height="36" alt="Tailwind"/></span>
-<span><img src="./imgs/leaflet.png" height="36" alt="LeafletJS"/></span>
-<span><img src="./imgs/javascript.png" height="36" alt="JavaScript"/></span>
-<span><img src="./imgs/typescript.png" height="36" alt="TypeScript"/></span>
-<span><img src="./imgs/express.png" height="36" alt="Express"/></span>
-<span><img src="./imgs/node.png" height="36" alt="NodeJS"/></span>
-<span><img src="./imgs/mongodb.png" height="36" alt="Mongodb"/></span>
-<span><img src="./imgs/postgres.png" height="36" alt="Postgres"/></span>
-<span><img src="./imgs/docker.png" height="36" alt="Docker"/></span>
+<span><img src="./imgs/java.png" height="36" alt="Java"/></span>
 
 ## Badges
 
