@@ -16,7 +16,6 @@
 <span><img src="./imgs/tailwind.png" height="36" alt="Tailwind"/></span>
 <span><img src="./imgs/express.png" height="36" alt="Express"/></span>
 <span><img src="./imgs/mongodb.png" height="36" alt="Mongodb"/></span>
-<span><img src="./imgs/sql.png" height="36" alt="SQL"/></span>
 <span><img src="./imgs/docker.png" height="36" alt="Docker"/></span>
 
 ## I also have worked/familiarity with
@@ -24,6 +23,7 @@
 <span><img src="./imgs/c.png" height="36" alt="C"/></span>
 <span><img src="./imgs/rust.png" height="36" alt="Rust"/></span>
 <span><img src="./imgs/java.png" height="36" alt="Java"/></span>
+<span><img src="./imgs/sql.png" height="36" alt="SQL"/></span>
 
 ## Badges
 
