@@ -3,7 +3,7 @@
 ## Student & Developer
 
 - 🌍 Milan - Italy.
-- 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**outdated**).
+- 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**offline**).
 - 🚀 I'm currently learning Mobile and Web development.
 - 📫 Reach me at aliprandifrancescopp@gmail.com
 
