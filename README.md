@@ -4,7 +4,7 @@
 
 - 🌍 Milan - Italy.
 - 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**offline**).
-- 🚀 I'm currently learning Mobile and Web development.
+- 🚀 I'm currently learning cross-platform mobile development.
 - 📫 Reach me at aliprandifrancescopp@gmail.com
 
 ## I regularly work with
