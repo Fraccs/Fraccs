@@ -1,30 +1,22 @@
 # Hi 👋 my name is Aliprandi Francesco
 
-## Student & Developer
+## I'm a Student, Developer and CTF Player
 
 - 🌍 Milan - Italy.
-- 🖥️ Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**offline**).
+- 🖥️ (Don't) Click [here](https://aliprandi-francesco-portfolio.herokuapp.com) to see my portfolio (**offline**).
 - 🚀 I'm currently learning cross-platform mobile development.
 - 📫 Reach me at aliprandifrancescopp@gmail.com
 
 ## I regularly work with
 
-<span><img src="./imgs/python.png" height="36" alt="Python"/></span>
-<span><img src="./imgs/javascript.png" height="36" alt="JavaScript"/></span>
-<span><img src="./imgs/typescript.png" height="36" alt="TypeScript"/></span>
-<span><img src="./imgs/react.png" height="36" alt="React"/></span>
-<span><img src="./imgs/tailwind.png" height="36" alt="Tailwind"/></span>
-<span><img src="./imgs/express.png" height="36" alt="Express"/></span>
-<span><img src="./imgs/mongodb.png" height="36" alt="Mongodb"/></span>
-<span><img src="./imgs/docker.png" height="36" alt="Docker"/></span>
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,tailwindcss,express,mongodb,docker)
 
-## I also have worked/familiarity with
+## I am currently learning
 
-<span><img src="./imgs/c.png" height="36" alt="C"/></span>
-<span><img src="./imgs/rust.png" height="36" alt="Rust"/></span>
-<span><img src="./imgs/java.png" height="36" alt="Java"/></span>
-<span><img src="./imgs/sql.png" height="36" alt="SQL"/></span>
+![My Skills](https://skillicons.dev/icons?i=next,firebase)
 
-## Badges
+## I also have familiarity with
 
-<a href="https://github.com/Fraccs"><img src="https://github-readme-stats.vercel.app/api?username=Fraccs&show_icons=true&hide=contribs,stars&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fraccs' GitHub stats"/></a>
+![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,mysql)
+
+<a href="https://github.com/Fraccs"><img src="https://github-readme-stats.vercel.app/api?username=Fraccs&show_icons=true&hide=contribs,stars&count_private=true&title_color=ffd700&text_color=ffffff&icon_color=0891b2&bg_color=101414&hide_border=true&show_icons=true" alt="Fraccs' GitHub stats"/></a>
