@@ -18,5 +18,3 @@
 ## I also have familiarity with
 
 ![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,mysql)
-
-<a href="https://github.com/Fraccs"><img src="https://github-readme-stats.vercel.app/api?username=Fraccs&show_icons=true&hide=contribs,stars&count_private=true&title_color=ffd700&text_color=ffffff&icon_color=0891b2&bg_color=161b22&hide_border=true&show_icons=true" alt="Fraccs' GitHub stats"/></a>
