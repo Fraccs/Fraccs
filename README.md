@@ -12,7 +12,7 @@
 
 ## I am currently learning
 
-![My Skills](https://skillicons.dev/icons?i=next,firebase)
+![My Skills](https://skillicons.dev/icons?i=next)
 
 ## I also have familiarity with
 
