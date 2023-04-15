@@ -8,7 +8,7 @@
 
 ## I regularly work with
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,tailwindcss,express,mongodb,docker)
+![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,tailwindcss,express,mongodb,mysql,docker)
 
 ## I am currently learning
 
@@ -16,4 +16,4 @@
 
 ## I also have familiarity with
 
-![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,mysql)
+![My Skills](https://skillicons.dev/icons?i=c,rust,java,php)
