@@ -8,12 +8,12 @@
 
 ## I regularly work with
 
-![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,tailwindcss,express,mongodb,mysql,docker)
+![My Skills](https://skillicons.dev/icons?i=python,ts,react,tailwindcss,express,mongodb,mysql,docker)
 
 ## I am currently learning
 
-![My Skills](https://skillicons.dev/icons?i=next,firebase)
+![My Skills](https://skillicons.dev/icons?i=next)
 
 ## I also have familiarity with
 
-![My Skills](https://skillicons.dev/icons?i=c,rust,java,php)
+![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,firebase)
