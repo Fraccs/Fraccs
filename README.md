@@ -7,8 +7,8 @@
 
 ## I regularly work with
 
-![My Skills](https://skillicons.dev/icons?i=python,ts,react,tailwindcss,express,mongodb,mysql,docker)
+![My Skills](https://skillicons.dev/icons?i=ts,python)
 
 ## I also have familiarity with
 
-![My Skills](https://skillicons.dev/icons?i=c,rust,java,php,next)
+![My Skills](https://skillicons.dev/icons?i=c,rust,java,php)
