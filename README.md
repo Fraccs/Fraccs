@@ -11,4 +11,4 @@
 
 ## I also have familiarity with
 
-![My Skills](https://skillicons.dev/icons?i=c,rust,java,php)
+![My Skills](https://skillicons.dev/icons?i=rust,java,php)
