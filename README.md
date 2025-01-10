@@ -1,4 +1,4 @@
-# Hi 👋 my name is Aliprandi Francesco
+# Hi 👋 my name is Francesco Aliprandi
 
 ## I'm a Developer and CTF Player
 
