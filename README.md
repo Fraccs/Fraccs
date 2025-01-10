@@ -6,8 +6,9 @@ I'm a Computer Science student at [University of Milan](https://en.wikipedia.org
 
 ## Contacts
 
-- 🌐 Message me on [Linkedin](https://www.linkedin.com/in/francesco-cristiano-aliprandi/)
-- 📫 Email me at aliprandifrancescopp@gmail.com
+- 🌐 Connect on [Linkedin](https://www.linkedin.com/in/francesco-cristiano-aliprandi/)
+- 📫 Email me -> fraccs@fraccs.com (🔒e2e)
+- 📫 Email me -> aliprandifrancescopp@gmail.com (🔓no-e2e)
 - 🌍 Milan - Italy
 
 ## Interests
