@@ -20,6 +20,6 @@ I'm a Computer Science student at [University of Milan](https://en.wikipedia.org
 
 ## Environment
 
-I'm currently on [Arch Linux](https://archlinux.org/) with [i3wm](https://i3wm.org/), [kitty](https://sw.kovidgoyal.net/kitty/) and [neovim](https://neovim.io/). For servers my distro of choice is [Debian](https://www.debian.org).
+I'm currently on [Arch Linux](https://archlinux.org/) with [i3wm](https://i3wm.org/), [kitty](https://sw.kovidgoyal.net/kitty/), [tmux](https://github.com/tmux/tmux/wiki) and [neovim](https://neovim.io/). For servers my distro of choice is [Debian](https://www.debian.org).
 
 Check out my [dotfiles](https://github.com/fraccs/dotfiles) and [homelab](https://github.com/fraccs/homelab) repositories for more information about my setup.
